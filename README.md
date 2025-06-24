@@ -12,11 +12,8 @@ __Все коллокаты:__
   <img src="plots/2.png" alt="Коллокаты" width="45%"/>
 </p>
 
-
-На основании сетей коллокатов слова 'america' в либеральных и консервативных корпусах можно сделать следующие наблюдения:
-
 __1. Существительные и имена собственные:__
-У республиканцев рядом со словом _america_ преобладают такие слова, как _trump, president, states, gun, war, country, israel,_ что отражает фокус на внешней политике и национальной безопасности. У демократов, напротив, коллокации с _america_ включают _programs, deportation, expression, border, movement, detainment_,то есть они сфокусированы на социальных вопросах, на внутренней политике. 
+У республиканцев рядом со словом _america_ преобладают такие слова, как _trump, president, states, gun, war, country, israel,_ что отражает фокус на внешней политике и национальной безопасности. У демократов, напротив, коллокации с _america_ включают _programs, deportation, expression, border, movement, detainment_, то есть они сфокусированы на социальных вопросах, на внутренней политике. 
 <p align="center">
   <img src="plots/3.png" alt="Коллокаты" width="45%"/>
   <img src="plots/4.png" alt="Коллокаты" width="45%"/>
@@ -69,7 +66,7 @@ __Все коллокаты:__
 </p>
 
 __1. Существительные и имена собственные:__
-Анализ графов демонстрирует высокий уровень совпадения по ключевым существительным: в обоих корпусах выделяются такие слова, как _child, country, deportation, government, administration, flight, refugee_ и _detention_. Это может свидетельствовать о схожих тематических полях.
+Анализ графов демонстрирует высокий уровень совпадения по ключевым существительным: в обоих корпусах выделяются такие слова, как _child, country, deportation, government, administration, flight, refugee_ и _detention_.
 
 <p align="center">
   <img src="plots/23.png" alt="Коллокаты" width="45%"/>
@@ -77,7 +74,7 @@ __1. Существительные и имена собственные:__
 </p>
 
 __2. Прилагательные:__
-Для обеих групп характерны слова с правовым и административным контекстом, такие как _illegal, legal, deportation, border, states, asylum, release. 
+Для обеих групп характерны слова с правовым и административным контекстом, такие как _illegal, legal, deportation, border, states, asylum, release_. 
 <p align="center">
   <img src="plots/26.png" alt="Коллокаты" width="45%"/>
   <img src="plots/25.png" alt="Коллокаты" width="45%"/>
