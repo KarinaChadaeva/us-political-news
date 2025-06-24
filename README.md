@@ -7,66 +7,88 @@
 
 ### Target 'america'
 __Все коллокаты:__
-![Коллокаты демократов](plots/1.png)
-![Коллокаты республиканцев](plots/2.png)
+<p align="center">
+  <img src="plots/1.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/2.png" alt="Коллокаты" width="45%"/>
+</p>
 
 
 На основании сетей коллокатов слова 'america' в либеральных и консервативных корпусах можно сделать следующие наблюдения:
 
 __1. Существительные и имена собственные:__
 У республиканцев рядом со словом _america_ преобладают такие слова, как _trump, president, states, gun, war, country, israel,_ что отражает фокус на внешней политике и национальной безопасности. У демократов, напротив, коллокации с _america_ включают _programs, deportation, expression, border, movement, detainment_,то есть они сфокусированы на социальных вопросах, на внутренней политике. 
-![Коллокаты республиканцев](plots/3.png)
-![Коллокаты демократов](plots/4.png)
+<p align="center">
+  <img src="plots/3.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/4.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __2. Прилагательные:__
 Обе группы используют близкий набор описательных слов: _good, bad, great, true, critical, secure, poor, dead, domestic, conservative._
-![Коллокаты республиканцев](plots/5.png)
-![Коллокаты демократов](plots/6.png)
+<p align="center">
+  <img src="plots/5.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/6.png" alt="Коллокаты" width="45%"/>
+</p>
 
 
 ### Target 'democracy'
 __Все коллокаты:__
 На графиках представлены наиболее частотные слова, встречающиеся рядом с _democracy_ в речах республиканцев и демократов. Сети в целом похожи: в обоих случаях фиксируются связи с _freedom, people, rule, american, defend, undermine, american_ и другими политическими терминами. 
-![Коллокаты демократов](plots/14.png)
-![Коллокаты республиканцев](plots/13.png)
+<p align="center">
+  <img src="plots/14.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/13.png" alt="Коллокаты" width="45%"/>
+</p>
 
 
 __1. Существительные и имена собственные:__
 Графы почти идентичны по структуре, содержанию узлов и частотным характеристикам, что говорит о схожем понятийном контексте слова _democracy_ у обеих сторон.
-![Коллокаты республиканцев](plots/16.png)
-![Коллокаты демократов](plots/15.png)
+<p align="center">
+  <img src="plots/16.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/15.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __2. Прилагательные:__
 Обе партии используют схожие прилагательные — _political, free, military, undemocratic, peaceful, authoritarian, unpatriotic, willing, principle,_ что указывает на наличие устойчивого контекста, в котором рассматривается концепт демократии в обеих партиях. 
-![Коллокаты республиканцев](plots/17.png)
-![Коллокаты демократов](plots/18.png)
+<p align="center">
+  <img src="plots/17.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/18.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __3. Глаголы:__
 Наборы глаголов также почти не различаются. Обе группы сочетают _democracy_ с глаголами _defend, get, say, destroy, believe, warn, make, stand, promote, unite, save, resist_ и др. 
-![Коллокаты республиканцев](plots/19.png)
-![Коллокаты демократов](plots/20.png)
+<p align="center">
+  <img src="plots/19.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/20.png" alt="Коллокаты" width="45%"/>
+</p>
 
 
 ### Target 'migrant'
 __Все коллокаты:__
-![Коллокаты демократов](plots/22.png)
-![Коллокаты республиканцев](plots/21.png)
+<p align="center">
+  <img src="plots/22.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/21.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __1. Существительные и имена собственные:__
 Анализ графов демонстрирует высокий уровень совпадения по ключевым существительным: в обоих корпусах выделяются такие слова, как _child, country, deportation, government, administration, flight, refugee_ и _detention_. Это может свидетельствовать о схожих тематических полях.
 
-![Коллокаты республиканцев](plots/23.png)
-![Коллокаты демократов](plots/24.png)
+<p align="center">
+  <img src="plots/23.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/24.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __2. Прилагательные:__
 Для обеих групп характерны слова с правовым и административным контекстом, такие как _illegal, legal, deportation, border, states, asylum, release. 
-![Коллокаты республиканцев](plots/26.png)
-![Коллокаты демократов](plots/25.png)
+<p align="center">
+  <img src="plots/26.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/25.png" alt="Коллокаты" width="45%"/>
+</p>
 
 __3. Глаголы:__
 В обеих группах используются глаголы, связанные с миграцией: _release, say, come, cross, include, get, make, pay, end, use, encounter_ и др.
-![Коллокаты республиканцев](plots/28.png)
-![Коллокаты демократов](plots/27.png)
+<p align="center">
+  <img src="plots/28.png" alt="Коллокаты" width="45%"/>
+  <img src="plots/27.png" alt="Коллокаты" width="45%"/>
+</p>
 
 
 __Вывод:__
